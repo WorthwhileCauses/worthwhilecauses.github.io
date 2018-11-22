@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"data-body"
+			],
+			[
+				"JSONED",
+				"JSONEditor"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"zo",
+				"zoomLevelSpan"
+			],
+			[
+				"lo",
+				"LobiAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin"
+	],
+	"file_history":
+	[
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/portfolio-test.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/data/force.csv",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/network-diagram.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/network-diagram-multi-relate.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/index.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/login.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/BootstrapGenerator/index.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/jQuery-gridmanager-master/demo/simple_light.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/dashboard.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/BootstrapGenerator/index.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/index.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/main.js",
+		"/Users/chadcollins/Sites/csubs/apps/release-4/htdocs_client/package.json",
+		"/Users/chadcollins/Documents/docker/localdev/docker-compose.yml",
+		"/Users/chadcollins/Sites/csubs/apps/release-4/htdocs_client/yarn.lock",
+		"/Users/chadcollins/Documents/docker/localdev (trunk)/docker-compose.yml",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/boot_strap_page_builder/js/scripts.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/BootstrapPageGenerator/css/toolbox.css",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/boot_strap_page_builder/ckeditor/ckeditor.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/boot_strap_page_builder/index.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/BootstrapPageGenerator/js/scripts.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/BootstrapPageGenerator/ckeditor/core/ckeditor_base.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/BootstrapPageGenerator/index.html",
+		"/private/etc/hosts",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/test.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/js/lobi-plugins/lobipanel.min.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/lobipanel.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/foo.json",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/README.md",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/dashboards.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/treeview.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/test-2.json",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/profile.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/calendar.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/websites.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/renderer.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/foo.json",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/js/webview-helper.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/foo.json",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/JSONEditor_files/jsoneditor.js",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/jsoneditor.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/JSONEditor.htm",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/dashboard-bak.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages/chartjs.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/css/lobiadmin-with-plugins.css",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/lock.html",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/# Default Virtual Host configuration.",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/package.json",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/package-lock.json",
+		"/Users/chadcollins/Documents/GitHub/radmin/radmin/.gitignore",
+		"/Users/chadcollins/Documents/GitHub/electron-google-oauth-master/index.js",
+		"/Users/chadcollins/Documents/GitHub/auth2/electron-google-oauth/index.js",
+		"/Users/chadcollins/Documents/GitHub/auth2/electron-google-oauth/bin.js",
+		"/Users/chadcollins/Documents/GitHub/qa-dev-report-tool-desktop-manager/admin/version/1.0/ajax/pages/image-cropping.html",
+		"/Users/chadcollins/Documents/GitHub/qa-dev-report-tool-desktop-manager/admin/index.html",
+		"/Users/chadcollins/Documents/GitHub/qa-dev-report-tool-desktop-manager/package.json",
+		"/Users/chadcollins/Documents/GitHub/qa-dev-report-tool-desktop-manager/package-lock.json",
+		"/Users/chadcollins/lobi-tron/admin/version/1.0/ajax/lock.html",
+		"/Users/chadcollins/lobi-tron/admin/version/1.0/ajax/index.html",
+		"/Users/chadcollins/lobi-tron/admin/version/1.0/ajax/login.html",
+		"/Users/chadcollins/lobi-tron/admin/version/1.0/ajax/pages/test.html",
+		"/Users/chadcollins/lobi-tron/admin/version/1.0/ajax/pages/marketing-reports.html",
+		"/Users/chadcollins/electron-browser/admin/version/1.0/ajax/index.html",
+		"/Users/chadcollins/electron-browser/admin/version/1.0/ajax/pages/test.html",
+		"/Users/chadcollins/electron-browser/browser.html",
+		"/Users/chadcollins/electron-browser/browser.jsx"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/pages",
+			"/Users/chadcollins/Documents/GitHub/radmin/radmin/ui/admin/lobiadmin/version/1.0/ajax/",
+			"/Users/chadcollins/Documents/GitHub/radmin/radmin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0",
+			"document.getElementById('select-file').addEventListener('click',function(){",
+			"            document.getElementById('select-file').addEventListener('click',function(){",
+			"line-chart",
+			"Peter",
+			"Harry",
+			"James",
+			"Alice",
+			"binance",
+			"LG",
+			"Sony",
+			"RIM",
+			"Motorola",
+			"Huawei",
+			"Ericsson",
+			"Nokia",
+			"Microsoft",
+			"Samsung",
+			"Qualcomm",
+			"usdt",
+			"Kodak",
+			"HTC",
+			"Apple",
+			"Welcome",
+			"welcome",
+			"welcome to ",
+			"src=\"img",
+			"js/jquery-2",
+			"jquery-2",
+			"front_end/assets",
+			"front_end_assets",
+			"JSON.js",
+			"CKEDITOR.replace( 'contenteditor' ",
+			"\"img/",
+			"img/",
+			"img",
+			"docs.min",
+			"panel-control-icon glyphicon-pencil glyphicon",
+			"<input value=\"",
+			"'",
+			"editTitle",
+			"follow",
+			"Profile",
+			"Graphs",
+			"forms",
+			"TODO",
+			"google",
+			"basic_person",
+			"person.js",
+			"panel-light lobipanel",
+			"webview",
+			"content",
+			"// ",
+			"dashboard-statisticts-panel",
+			"sort",
+			"sortable",
+			"destroy",
+			"Out",
+			"2",
+			"search",
+			".header .navbar-search input",
+			"min-width",
+			"lobipanel-from-url",
+			"search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cny",
+			"3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r",
+			"16ftSEQ4ctQFDtVZiUBusQUjRrGhM3JYwe",
+			"38UmuUqPCrFmQo4khkomQwZ4VbY2nZMJ67",
+			"binance",
+			"bitfinex",
+			"kraken",
+			"hitbtc",
+			"bitbank",
+			"bithumb",
+			"binance",
+			"xrp",
+			"btc",
+			"cny",
+			"krw",
+			"xrp",
+			"\"./pages/BootstrapPageGenerator/img/",
+			"\"",
+			"panel-default"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/chadcollins/Documents/GitHub/radmin/radmin.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/electron-browser/electron-browser.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
