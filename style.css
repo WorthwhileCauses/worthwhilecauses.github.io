@@ -48,6 +48,7 @@ footer p {
   justify-content: space-between;
   padding: .8rem 1rem;
   background-color: #890f2e;
+  background: linear-gradient(to right bottom, #890f2e, #c54968);
 }
 
 #mainBody{
